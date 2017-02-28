@@ -11,7 +11,7 @@ Ronsor Public License 3.0:
 2. Redistributions of this software, in source or binary form, must reproduce this message.
 3. Modifications of this software must be renamed to avoid confusion with the original software.
 4. Redistributions in binary form must include the original source of the application, or offer a link to it.
-5. This code is forbidden to be relicensed under the GPLv3 or AGPL.
+
 
 THIS SOFTWARE IS WITHOUT WARRANTY FOR A SPECIFIC PURPOSE. WHILE IT MAY BE INTENDED
 FOR A SPECIFIC USE CASE, ALL LIABILITY IS DISCLAIMED FOR THE RESULTS OF USING IT,
